@@ -1,0 +1,304 @@
+[
+      {
+          "id": 1,
+          "name": "Chen Jianmin",
+          "photo": "https://as1.ftcdn.net/v2/jpg/03/04/75/66/1000_F_304756617_MKsgFzLQPC5Tc3RppjBcHF349jjsmTmz.jpg",
+          "experience": "7 years",
+          "likes": 1234,
+          "number": "29",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "beef kabab",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "chicken soup",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "nudddols soup",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Li Ming",
+          "photo": "https://as2.ftcdn.net/v2/jpg/01/39/56/01/1000_F_139560107_QP1fZruzUPgXkdfuwjGPD2Bk41Z4fRPv.jpg",
+          "experience": "5 years",
+          "likes": 5678,
+          "number": "22",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "Gioga chicken",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "Gioja fiagomon",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "tomatina lislad soup",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Zhang Wei",
+          "photo": "https://www.shutterstock.com/image-photo/asian-male-background-260nw-1459096394.jpg",
+          "experience": "6 years",
+          "likes": 9012,
+          "number": "35",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "mustorian frt calamary",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "Cream dory fish",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "Suche thei pacura",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Wang Hong",
+          "photo": "https://media.istockphoto.com/id/1175212531/photo/successful-asian-chef-standing-in-the-kitchen.jpg?s=612x612&w=is&k=20&c=oVqKgdsk473mRZ7oJ9gt7zxyO9LTyft8EX8msuX5aAE=",
+          "experience": "10+ years",
+          "likes": 3456,
+          "number": "15",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "Sweet banana soup",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "pasta concatinatom",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "Sweetv beef fry",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Liu Yue",
+          "photo": "https://www.shutterstock.com/image-photo/handsome-asian-chef-dish-on-260nw-1907577940.jpg",
+          "experience": "8+ years",
+          "likes": 7890,
+          "number": "24",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "Sweet and Sour Pork",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "Sweet and Sour soup",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "motiala coulta",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      },
+      {
+          "id": 6,
+          "name": "Wu Wei",
+          "photo": "https://www.countrylivingfair.com/wp-content/uploads/2020/05/Ching-Copy-3.jpg",
+          "experience": "4+ years",
+          "likes": 2345,
+          "number": "23",
+          "bio": "the biography of the chef is he is the most educated chef in town so noproblem with his education and perticipetion to chef indestry",
+          "discription": "Executive Chinese Chefs supervise the kitchens operation, control food cost, quality and portion control of food. They oversee purchase of dried goods and fresh products. They have to be innovative and creative on daily special menus and maintain good relationship with customers.",
+          "recipes": [
+            {
+              "name": "rabit game and Sour",
+              "rating":3.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+               
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+
+            },
+            {
+              "name": "chicken masala fry",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "Sweet mutton",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
+      }
+]
