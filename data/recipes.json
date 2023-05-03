@@ -300,5 +300,31 @@
               "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
             }
           ]
+      },
+            {
+              "name": "chicken masala fry",
+              "rating":4.5,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            },
+            {
+              "name": "Sweet mutton",
+              "rating":4.0,
+              "ingredients": [
+                "Tomato Sauce",
+                "Canned Tomatoes",
+                "Olive Oil",
+                "Garlic",
+                "Onion"
+              ],
+              "method": "while typically known as a slow cooking cut to break down tough connective tissue (like for pulled pork and Momofuku Pork Bossam), the baking soda and cornflour in the marinade tenderises the pork so its tender even after a quick fry. Without the marinade, the pork is tough and chewy! Not quite as tender as scotch, but almost  its on par with the really good local Chinese restaurants;"
+            }
+          ]
       }
 ]
